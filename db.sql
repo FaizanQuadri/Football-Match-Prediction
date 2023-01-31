@@ -1,4 +1,4 @@
--- Active: 1667936800479@@127.0.0.1@3306@my_projects
+create database MY_PROJECTS;
 USE MY_PROJECTS;
 
 CREATE TABLE FOOTBALL_PRED_RES (
